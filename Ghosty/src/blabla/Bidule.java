@@ -1,4 +1,4 @@
-package composants;
+package blabla;
 
 public class Bidule {
 	String truc;
