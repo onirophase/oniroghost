@@ -1,6 +1,6 @@
 package whouah;
 
-public class Zouh2 {
+public class Zouh3 {
 
 	/**
 	 * @param args
